@@ -1,0 +1,114 @@
+body {
+  background-color: #B2d2a4;
+}
+
+h1 {
+  color: #1a4314;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  color: #2c5e1a;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-size: 16px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li {
+  color: white;
+}
+
+.fa-brands{
+  color: #071330;
+}
+
+.fa-solid{
+  color: #071330;
+}
+
+.fa-github{
+  color: #071330;
+}
+
+.fa-linkedin{
+  color: #071330;
+}
+
+.fa-facebook{
+  color: #071330;
+}
+
+.fa-github:hover {
+  color: grey;
+}
+
+.fa-linkedin:hover{
+  color: grey;
+}
+
+.fa-facebook:hover{
+  color: grey;
+}
+
+.container{
+  width: 700px;
+  margin: 40px auto;
+}
+
+.card-blue{
+  background-color: white;
+  padding: 40px;
+  border-radius: 4px;
+  text-align: center;
+  margin: 20px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+}
+
+.img-circle{
+  border-radius: 50%;
+}
+
+.list-inline > li{
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.list-inline{
+  list-style: none;
+  padding-left: 0px;
+}
+
+.button{
+  color: white;
+  background: #1a4314;
+  padding: 8px;
+  border-radius: 40px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+  width: 125px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+i {
+  font-size: 30px;
+}
+
+.button:hover{
+  color: white;
+  background: #738FA7;
+}
+
+.list-inline-languages > li{
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.list-inline-languages{
+  list-style: none;
+  padding-left: 0px;
+}
